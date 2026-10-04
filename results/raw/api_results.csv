@@ -1,5 +1,2 @@
 
-| Environment | Application Time (s) | Real Time (s) | User Time (s) | Sys Time (s) |
-|---|---|---|---|---|
-| VM / Compute | 0.068949 | 0.095 | 0.009 | 0.010 |
-| Container / Compute | 0.070843 | 0.091 | 0.010 | 0.007 |
+EnvironmentApplication Time (s)Real Time (s)User Time (s)Sys Time (s)VM / Compute0.0689490.0950.0090.010Container / Compute0.0708430.0910.0100.007
